@@ -25,7 +25,7 @@ A Claude Code skill providing patterns and guidance for Aztec Protocol smart con
 Clone the repository into your Claude Code skills directory:
 
 ```bash
-git clone https://github.com/your-username/aztec-claude-skill ~/.claude/skills/aztec
+git clone https://github.com/jp4g/aztec-claude-skill ~/.claude/skills/aztec
 ```
 
 ### Option 2: Project Installation
@@ -33,13 +33,13 @@ git clone https://github.com/your-username/aztec-claude-skill ~/.claude/skills/a
 Add as a submodule to include with your project (shared with team via git):
 
 ```bash
-git submodule add https://github.com/your-username/aztec-claude-skill .claude/skills/aztec
+git submodule add https://github.com/jp4g/aztec-claude-skill .claude/skills/aztec
 ```
 
 Or clone directly:
 
 ```bash
-git clone https://github.com/your-username/aztec-claude-skill .claude/skills/aztec
+git clone https://github.com/jp4g/aztec-claude-skill .claude/skills/aztec
 ```
 
 ### Verify Installation
