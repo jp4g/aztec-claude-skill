@@ -51,6 +51,17 @@ What skills are available?
 
 Claude should list the Aztec skill among available skills.
 
+## Keeping Updated
+
+This skill is updated as Aztec Protocol evolves. Pull the latest changes periodically:
+
+```bash
+cd ~/.claude/skills/aztec  # or .claude/skills/aztec
+git pull
+```
+
+Restart Claude Code after updating.
+
 ## Usage
 
 Once installed, Claude Code will automatically use these patterns when working on Aztec projects. You can also explicitly invoke the skill:
